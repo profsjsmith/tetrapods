@@ -1,2 +1,2 @@
 # tetrapods
-This is a work in progress to be completed and documented before publication date.
+This repo is a work in progress. Documentation and links to larger data files will be added before publication date.
